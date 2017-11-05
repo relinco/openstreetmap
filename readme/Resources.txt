@@ -1,0 +1,7 @@
+
+Resources Used: 
+
+https://www.udacity.com/course/data-wrangling-with-mongodb--ud032
+
+https://en.wikipedia.org/wiki/Honolulu http://www.kailuachamber.com/aboutkailua https://en.wikipedia.org/wiki/ZIP_Code#ZIP.2B4
+https://gist.github.com/carlward/54ec1c91b62a5f911c42#file-sample_project-md 
