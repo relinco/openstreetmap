@@ -1,2 +1,0 @@
-# openstreetmap
-Udacity OpenStreetMaps Project
